@@ -1,0 +1,93 @@
+p {
+	color: #FFD02D;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 48px;
+	letter-spacing: 0.1em;
+}
+
+p1 {
+	color: #D6D4D4;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 18px;
+	letter-spacing: 0.1em;
+	background-color:none;
+}
+
+footer {
+	background-color: #1B181C;
+	height: 100px;
+	
+}
+
+.container {
+  position: relative;
+  text-align: center;
+  height: 900px;
+  background-color: black;
+}
+
+.logo {
+   position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.text{
+	position: absolute;
+	text-align: center;
+	top: 40%;
+	left:09%;
+}
+
+.smalltext {
+	position: absolute;
+	top: 55%;
+	left: 20%;
+}
+
+.section2 {
+	height: 400px;
+	width: 100%;
+	background-color: #1B181C;
+	position:relative;
+	top:-100px;
+}
+
+.button {
+  background-color: #FE7272;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  height: 50px;
+  width: 200px;
+  cursor: pointer;
+  border-radius: 21px;
+}
+
+.button1 { 
+	background-color: #FE7272;
+	color: white;
+}
+.button2 {
+	background-color: white;
+	color: #FE7272;
+}
+
+.button3 {
+	background-color: #FFEC7B;
+	color: black;
+}
+
+.button4 {
+	background-color: #FFD02D;
+	color: black;
+}
+.button5 {
+	background-color: #FE7272;
+	color: black;
+}
